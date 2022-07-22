@@ -1,4 +1,8 @@
+# python-tutorial
 
+This is tutorial about python language for QTechFun'sYoutube
+
+### Youtube: https://www.youtube.com/playlist?list=PLXexeOmhXQe8iTOwI0jTJ-7a_2q-1mF8N
 
 #### ❄️ Author: Quyen Dang
 
